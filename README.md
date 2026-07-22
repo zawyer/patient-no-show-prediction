@@ -38,4 +38,4 @@ Machine Learning model to predict whether a patient will attend or miss their sc
 - `KaggleV2-May-2016.csv` - Dataset 
 
 ## Author
-[Your Name]
+Zawyar Rashid
